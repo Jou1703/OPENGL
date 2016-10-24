@@ -6,7 +6,6 @@
  */
 
 #include "CommLib_F.h"
-
 #include "AlsaPcm_F.h"
 
 int CAlsaPcm::AttachToWaveData(CAlsaWaveData* pWaveData)
